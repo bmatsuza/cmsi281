@@ -1,1 +1,1 @@
-# cmsi281
+Compsci is G
